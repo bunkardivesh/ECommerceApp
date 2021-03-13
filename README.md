@@ -3,7 +3,7 @@
 ECommerce App
 This application is made for selling the products online.
 It is just as like super mini mart where user can watch the products in details and can order them.
-This application is created using demo deta saved in assests folder.
+This application is created using demo data saved in assests folder.
 This application shows the functionality that how things work in app.
 You can use your own data source in this application.
 
