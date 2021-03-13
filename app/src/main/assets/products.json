@@ -1,0 +1,314 @@
+{
+  "products": [
+    {
+      "name": "Bluetooth Earphone",
+      "imgurl": "file:///android_asset/Electronics_1.png",
+      "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "200",
+      "category": "1"
+    },
+    {
+      "name": "Power Bank 2000mah",
+      "imgurl": "file:///android_asset/Electronics_2.jpeg",
+      "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "900",
+      "category": "1"
+    },
+    {
+      "name": "Power Bank 1000mah",
+      "imgurl": "file:///android_asset/Electronics_3.jpeg",
+      "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "500",
+      "category": "1"
+    },
+    {
+      "name": "Power Bank 1200mah",
+      "imgurl": "file:///android_asset/Electronics_4.jpeg",
+      "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "800",
+      "category": "1"
+    },
+    {
+      "name": "Television",
+      "imgurl": "file:///android_asset/Electronics_5.jpeg",
+     "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "75000",
+      "category": "1"
+    },
+    {
+      "name": "Air Conditioner",
+      "imgurl": "file:///android_asset/Electronics_6.jpeg",
+      "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "40000",
+      "category": "1"
+    },
+    {
+      "name": "Air Conditioner S",
+      "imgurl": "file:///android_asset/Electronics_7.jpg",
+       "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "35000",
+      "category": "1"
+    },
+    {
+      "name": "Ayurveda Products",
+      "imgurl": "file:///android_asset/Ayurveda_1.png",
+      "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "200",
+      "category": "2"
+    },
+    {
+      "name": "Zhandu Nityam",
+      "imgurl": "file:///android_asset/Ayurveda_2.png",
+      "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "400",
+      "category": "2"
+    },
+    {
+      "name": "Arthonorm Tablet",
+      "imgurl": "file:///android_asset/Ayurveda_3.png",
+     "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "80",
+      "category": "2"
+    },
+    {
+      "name": "Zandu Ovoutoline Forte",
+      "imgurl": "file:///android_asset/Ayurveda_4.png",
+      "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "200",
+      "category": "2"
+    },
+    {
+      "name": "Brahmi Pearls",
+      "imgurl": "file:///android_asset/Ayurveda_5.png",
+  "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "500",
+      "category": "2"
+    },
+    {
+      "name": "Histantin",
+      "imgurl": "file:///android_asset/Ayurveda_6.png",
+       "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "300",
+      "category": "2"
+    },
+    {
+      "name": "Itambi pro whey 22g",
+      "imgurl": "file:///android_asset/grocery1.jpeg",
+      "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "100",
+      "category": "3"
+    },
+    {
+      "name": "Peanut Butter Jar 1kg",
+      "imgurl": "file:///android_asset/grocery2.jpg",
+       "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "500",
+      "category": "3"
+    },
+    {
+      "name": "Peanut Butter 250g",
+      "imgurl": "file:///android_asset/grocery3.jpeg",
+    "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "150",
+      "category": "3"
+    },
+    {
+      "name": "Plastic Container",
+      "imgurl": "file:///android_asset/grocery4.jpeg",
+      "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "40",
+      "category": "3"
+    },
+    {
+      "name": "Smart Balance Refiend Oil",
+      "imgurl": "file:///android_asset/grocery5.jpg",
+    "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "2000",
+      "category": "3"
+    },
+    {
+      "name": "Lactose Free Milk",
+      "imgurl": "file:///android_asset/grocery6.jpg",
+     "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "40",
+      "category": "3"
+    },
+    {
+      "name": "Blue ArmChair",
+      "imgurl": "file:///android_asset/blue_armchair.jpg",
+       "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "2000",
+      "category": "4"
+    },
+    {
+      "name": "Blue ArmChair",
+      "imgurl": "file:///android_asset/blue_armchair1.jpg",
+     "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "2500",
+      "category": "4"
+    },
+    {
+      "name": "Blue ArmChair 1",
+      "imgurl": "file:///android_asset/blue_armchair3.jpg",
+       "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "1000",
+      "category": "4"
+    },
+    {
+      "name": "Blue ArmChair 2",
+      "imgurl": "file:///android_asset/blue_armchair4.jpg",
+      "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "4000",
+      "category": "4"
+    },
+    {
+      "name": "Blue ArmChair 3",
+      "imgurl": "file:///android_asset/blue_armchair5.jpg",
+       "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "4500",
+      "category": "4"
+    },
+    {
+      "name": "Blue ArmChair 4",
+      "imgurl": "file:///android_asset/blue_armchair6.jpeg",
+      "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "3500",
+      "category": "4"
+    },
+    {
+      "name": "Net Top",
+      "imgurl": "file:///android_asset/clothing1.png",
+      "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "200",
+      "category": "5"
+    },
+    {
+      "name": "Blue OnePiece",
+      "imgurl": "file:///android_asset/clothing2.png",
+      "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "700",
+      "category": "5"
+    },
+    {
+      "name": "Top dress",
+      "imgurl": "file:///android_asset/clothing3.png",
+     "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "500",
+      "category": "5"
+    },
+    {
+      "name": "Printed Shirt Half Sleeves",
+      "imgurl": "file:///android_asset/clothing4.png",
+       "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "400",
+      "category": "5"
+    },
+    {
+      "name": "Plain Shirt Half Sleeves",
+      "imgurl": "file:///android_asset/clothing5.png",
+      "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "500",
+      "category": "5"
+    },
+    {
+      "name": "Denim Blue Shirt",
+      "imgurl": "file:///android_asset/clothing6.png",
+      "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "600",
+      "category": "5"
+    },
+    {
+      "name": "Checks Shirt",
+      "imgurl": "file:///android_asset/clothing7.jpeg",
+      "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "300",
+      "category": "5"
+    },
+    {
+      "name": "Cadbury Dairy Milk Silk",
+      "imgurl": "file:///android_asset/chocolate_1.png",
+     "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "80",
+      "category": "6"
+    },
+    {
+      "name": "Chocolate Pack",
+      "imgurl": "file:///android_asset/chocolate_2.png",
+       "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "1500",
+      "category": "6"
+    },
+    {
+      "name": "Melody",
+      "imgurl": "file:///android_asset/chocolate_3.jpg",
+       "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "10",
+      "category": "6"
+    },
+    {
+      "name": "Chocolate Cup Cake",
+      "imgurl": "file:///android_asset/chocolate_4.jpeg",
+      "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "150",
+      "category": "6"
+    },
+    {
+      "name": "Hershey's Milk Chocolate",
+      "imgurl": "file:///android_asset/chocolate_5.jpg",
+      "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "50",
+      "category": "6"
+    },
+    {
+      "name": "Cadbury Dinky Deckers",
+      "imgurl": "file:///android_asset/chocolate_6.jpeg",
+       "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "150",
+      "category": "6"
+    }
+  ],
+  "popularItems": [
+    {
+      "name": "Cadbury Dinky Deckers",
+      "imgurl": "file:///android_asset/chocolate_6.jpeg",
+      "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "150",
+      "category": "6"
+    },
+    {
+      "name": "Denim Blue Shirt",
+      "imgurl": "file:///android_asset/clothing6.png",
+      "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "600",
+      "category": "5"
+    },
+    {
+      "name": "Blue OnePiece",
+      "imgurl": "file:///android_asset/clothing2.png",
+      "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "700",
+      "category": "5"
+    },
+    {
+      "name": "Blue ArmChair 2",
+      "imgurl": "file:///android_asset/blue_armchair4.jpg",
+      "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "4000",
+      "category": "4"
+    },
+    {
+      "name": "Power Bank 2000mah",
+      "imgurl": "file:///android_asset/Electronics_2.jpeg",
+      "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "900",
+      "category": "1"
+    },
+    {
+      "name": "Zandu Ovoutoline Forte",
+      "imgurl": "file:///android_asset/Ayurveda_4.png",
+      "desc": "products description....products descriptionproducts description\nproducts descriptionproducts description\nproducts description\nproducts description\nproducts description",
+      "price": "200",
+      "category": "2"
+    }
+  ]
+}

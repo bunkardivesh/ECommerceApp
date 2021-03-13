@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginTop="160dp"
+    android:background="@color/colorPrimary">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:paddingVertical="8dp"
+        android:paddingHorizontal="16dp"
+        android:layout_marginTop="18dp"
+        android:text="My Order"
+        android:background="@drawable/navigation_text_bg"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:paddingVertical="8dp"
+        android:paddingHorizontal="16dp"
+        android:layout_marginTop="8dp"
+        android:text="My Cart"
+        android:background="@drawable/navigation_text_bg"/>
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:paddingVertical="8dp"
+        android:paddingHorizontal="16dp"
+        android:layout_marginTop="8dp"
+        android:text="Wish List"
+        android:background="@drawable/navigation_text_bg"/>
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:paddingVertical="8dp"
+        android:paddingHorizontal="16dp"
+        android:layout_marginTop="8dp"
+        android:text="Your Account"
+        android:background="@drawable/navigation_text_bg"/>
+</LinearLayout>
