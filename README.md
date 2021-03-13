@@ -23,6 +23,6 @@ Upcoming features:
 **Demo is here**
 
 ![](media/demo1.gif)
-!(media/demo2.gif)
-!(media/demo3.gif)
-!(media/demo4.jpg)
+![](media/demo2.gif)
+![](media/demo3.gif)
+![](media/demo4.jpg)
